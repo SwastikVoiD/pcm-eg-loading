@@ -1,0 +1,18 @@
+# MATLAB outputs (reported results are kept in /results and /figures)
+matlab/results/*
+!matlab/results/.gitkeep
+matlab/figures/*
+!matlab/figures/.gitkeep
+*.asv
+*.mat
+
+# Python outputs and caches
+python/results/
+python/figures/
+__pycache__/
+*.pyc
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db

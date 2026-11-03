@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the InDecarb 2026 paper."
+title: "Optimal expanded-graphite loading of composite PCM storage under intermittent waste-heat supply"
+type: software
+license: MIT
+date-released: 2026-11-03
+authors:
+  - family-names: Patnaik
+    given-names: Swastik Debesh
+    affiliation: "School of Mechanical Engineering, Vellore Institute of Technology"
+  - family-names: Nayak
+    given-names: Navyaa
+    affiliation: "School of Mechanical Engineering, Vellore Institute of Technology"
+  - family-names: Mahajan
+    given-names: Rushi
+    affiliation: "School of Mechanical Engineering, Vellore Institute of Technology"
+  - name: Arushi
+    affiliation: "School of Mechanical Engineering, Vellore Institute of Technology"
+  - family-names: Rasu
+    given-names: N Govindha
+    email: ngrasu@vit.ac.in
+    affiliation: "School of Mechanical Engineering, Vellore Institute of Technology"
+keywords:
+  - phase change material
+  - expanded graphite
+  - latent heat storage
+  - waste heat recovery
+  - enthalpy method
